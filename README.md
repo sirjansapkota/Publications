@@ -1,2 +1,2 @@
-# Publication
+# Publications
 List of publications
